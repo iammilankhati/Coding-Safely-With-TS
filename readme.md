@@ -1,5 +1,5 @@
 
-# Typescript is keeping a guard. so, that incase, you make mistake, it will inform you
+## Typescript is keeping a guard. so, that incase, you make mistake, it will inform you
 
 ## setup
 
