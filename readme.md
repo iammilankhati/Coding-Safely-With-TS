@@ -1,5 +1,5 @@
 
-# k hune wala cha teslai pahilai declare garnu lai typescript vanincha
+# Typescript is keeping a guard. so, that incase, you make mistake, it will inform you
 
 ## setup
 
@@ -7,7 +7,7 @@
 2. yarn init -y :setup project
 3. yarn add typescript :install typescript
 4. tsc --init :setup typescript
-##### (NOTE: USE NODE VERSION 18 to work)
+##### (NOTE: CHANGE NODE VERSION if tsc doesn't work)
 5. tsc :compile to js  
 6. node file.js : run the js compiled file
 
